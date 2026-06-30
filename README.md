@@ -1,2 +1,28 @@
-# 68a9088f5605ffe3-dental-practice-task-automatio
-Built for dental practice professionals who are tired of missing messages, manually responding to routine requests at all hours.  Multi-server support with per-server configuration and permission levels. Easy setup: invite → configure → active in under 10 minutes.  ## What's Included  - Dental Practice Task Automation And Delegation — fully configu
+# Dental Practice Task Automation and Delegation System
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00wdR96mXaQA3lm8nGcZE2B)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00wdR96mXaQA3lm8nGcZE2B)
+

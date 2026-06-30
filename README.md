@@ -1,0 +1,2 @@
+# 68a9088f5605ffe3-dental-practice-task-automatio
+Built for dental practice professionals who are tired of missing messages, manually responding to routine requests at all hours.  Multi-server support with per-server configuration and permission levels. Easy setup: invite → configure → active in under 10 minutes.  ## What's Included  - Dental Practice Task Automation And Delegation — fully configu
